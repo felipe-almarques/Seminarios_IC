@@ -1,0 +1,18 @@
+---
+title: "Seminario"
+author: "Felipe"
+format: revealjs
+---
+
+# Gas
+
+## Sumário
+
+. . .
+
+1. Introdução
+2. OI
+
+$$
+y_t = \sigma_t\epsilon_t
+$$
