@@ -1,0 +1,13 @@
+---
+title: "Seminario"
+author: "Felipe"
+format: revealjs
+---
+
+# Oi
+
+## Esse é meu seminario
+
+$$
+\mathcal{X} = \{1, 2, \ldots,n\}
+$$
